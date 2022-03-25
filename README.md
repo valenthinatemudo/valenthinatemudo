@@ -1,6 +1,6 @@
-## Olá! Eu sou a Valenthina Temudo👋
+## Olá! Eu sou Valenthina Temudo👋
 
-- 🔭 Sou formada em nutrição e estou em transição de carreira! Sou Desenvolvedora front-end formada pela {reprograma}!
+- 🔭 Desenvolvedora front-end jr formada pela {reprograma}! Sou formada em nutrição e estou em transição de carreira.
 
   <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valenthinatemudo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
