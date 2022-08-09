@@ -1,6 +1,6 @@
 ## Olá! Eu sou Valenthina Temudo👋
 
-- 🔭 Desenvolvedora front-end jr! Sou formada em nutrição e estou em transição de carreira.
+- 🔭 Front-Env Dev Jr.
 
   <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valenthinatemudo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
